@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/uzair092/react-ecommerce-dashboard/static/css/main.7cdf284f.css",
-    "main.js": "/uzair092/react-ecommerce-dashboard/static/js/main.e85bde9d.js",
-    "static/js/453.8ab44547.chunk.js": "/uzair092/react-ecommerce-dashboard/static/js/453.8ab44547.chunk.js",
-    "index.html": "/uzair092/react-ecommerce-dashboard/index.html",
-    "main.7cdf284f.css.map": "/uzair092/react-ecommerce-dashboard/static/css/main.7cdf284f.css.map",
-    "main.e85bde9d.js.map": "/uzair092/react-ecommerce-dashboard/static/js/main.e85bde9d.js.map",
-    "453.8ab44547.chunk.js.map": "/uzair092/react-ecommerce-dashboard/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/react-ecommerce-dashboard/static/css/main.7cdf284f.css",
+    "main.js": "/react-ecommerce-dashboard/static/js/main.f0a97626.js",
+    "static/js/453.8ab44547.chunk.js": "/react-ecommerce-dashboard/static/js/453.8ab44547.chunk.js",
+    "index.html": "/react-ecommerce-dashboard/index.html",
+    "main.7cdf284f.css.map": "/react-ecommerce-dashboard/static/css/main.7cdf284f.css.map",
+    "main.f0a97626.js.map": "/react-ecommerce-dashboard/static/js/main.f0a97626.js.map",
+    "453.8ab44547.chunk.js.map": "/react-ecommerce-dashboard/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cdf284f.css",
-    "static/js/main.e85bde9d.js"
+    "static/js/main.f0a97626.js"
   ]
 }
